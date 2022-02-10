@@ -21,7 +21,7 @@ const ENV = {
     STRIPE_STORE_NAME: 'Enatega'
   },
   staging: {
-    GRAPHQL_URL: 'https://staging-enatega-single-api.herokuapp.com//graphql',
+    GRAPHQL_URL: 'https://staging-enatega-single-api.herokuapp.com/graphql',
     WS_GRAPHQL_URL: 'wss://staging-enatega-single-api.herokuapp.com/graphql',
     SERVER_URL: 'https://staging-enatega-single-api.herokuapp.com/', // put / at the end of server url
     IOS_CLIENT_ID_GOOGLE:
